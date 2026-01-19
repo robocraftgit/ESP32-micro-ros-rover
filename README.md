@@ -133,3 +133,10 @@ ros2 topic echo /cmd_vel
 * ROS 2 communication (`cmd_vel`)
 * ESP32 Wi‑Fi transport
 * Differential drive robot control
+
+---
+
+##  Collaborator
+
+- **Pragya Pandey** – https://github.com/pragyapandey2804 
+
